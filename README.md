@@ -1,0 +1,2 @@
+# launcherbasic
+FivemLauncherBasic
